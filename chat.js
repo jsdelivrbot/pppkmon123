@@ -25,7 +25,6 @@ To reload chat commands:
 
 'use strict';
 
-const LINK_WHITELIST = ['*.pokemonshowdown.com', 'psim.us', 'smogtours.psim.us', '*.smogon.com', '*.pastebin.com', '*.hastebin.com'];
 
 const MAX_MESSAGE_LENGTH = 300;
 

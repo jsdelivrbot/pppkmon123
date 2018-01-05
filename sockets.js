@@ -205,7 +205,7 @@ if (cluster.isMaster) {
 	// Static HTTP server
 
 	// This handles the custom CSS and custom avatar features, and also
-	// redirects yourserver:8001 to yourserver-8001.psim.us
+	// redirects yourserver:8001 to yourserver-8001.com
 
 	// It's optional if you don't need these features.
 

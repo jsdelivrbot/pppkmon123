@@ -21,10 +21,10 @@
     "test": "eslint --rulesdir=dev-tools/eslint --cache . && tsc && mocha"
   },
   "bin": "./pokemon-showdown",
-  "homepage": "http://pokemonshowdown.com",
+  "homepage": "google.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zarel/Pokemon-Showdown.git"
+    "url": "https://github.com/Nikokatsu/pppkmon123.git"
   },
   "author": {
     "name": "Guangcong Luo",

@@ -676,7 +676,7 @@ exports.commands = {
 		let groupChatLink = '<code>&lt;&lt;' + roomid + '>></code>';
 		let groupChatURL = '';
 		if (Config.serverid) {
-			groupChatURL = 'http://' + (Config.serverid === 'showdown' ? 'psim.us' : Config.serverid + '.psim.us') + '/' + roomid;
+			groupChatURL = 'http://' + (Config.serverid === 'showdown' ? '.com' : Config.serverid + '.com') + '/' + roomid;
 			groupChatLink = '<a href="' + groupChatURL + '">' + groupChatLink + '</a>';
 		}
 		let titleHTML = '';
